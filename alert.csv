@@ -1,0 +1,18 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource,rank,alert
+2024-10-01T05:01:57.237Z,-20.1953,-70.6982,21.903,5.3,mww,77.0,109.0,0.538,0.94,us,us7000nhdc,2024-10-01T06:31:49.991Z,"56 km W of Puerto, Chile",earthquake,3.91,2.814,0.066,22.0,reviewed,us,us,5.5,1.0
+2024-09-30T12:21:58.647Z,53.0351,160.2623,31.539,5.9,mww,110.0,76.0,0.974,1.61,us,us7000nh82,2024-09-30T17:53:58.040Z,"109 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,7.52,3.556,0.041,56.0,reviewed,us,us,2.0,1.0
+2024-09-29T11:09:14.196Z,2.5052,126.829,25.543,5.2,mww,93.0,68.0,1.804,1.19,us,us7000nh3j,2024-09-29T12:50:27.040Z,"156 km WNW of Tobelo, Indonesia",earthquake,6.34,4.591,0.11,8.0,reviewed,us,us,9.0,1.0
+2024-09-29T06:53:34.095Z,10.5372,124.3913,10.0,5.1,mww,60.0,55.0,3.64,1.06,us,us7000nh2p,2024-09-30T13:25:11.509Z,"10 km S of Poro, Philippines",earthquake,9.89,1.876,0.075,17.0,reviewed,us,us,14.0,1.0
+2024-09-28T12:32:38.055Z,25.8313,141.6942,82.973,5.1,mb,61.0,103.0,1.334,0.83,us,us7000ngz7,2024-09-28T12:50:40.040Z,"Volcano Islands, Japan region",earthquake,10.31,6.89,0.057,100.0,reviewed,us,us,14.0,1.0
+2024-09-28T03:04:15.149Z,41.8543,-126.8404,10.0,5.1,mww,69.0,213.0,1.91,1.35,us,us7000ngxr,2024-10-01T03:14:24.229Z,"207 km WSW of Pistol River, Oregon",earthquake,3.95,2.005,0.044,49.0,reviewed,us,us,14.0,1.0
+2024-09-27T14:58:08.399Z,-19.9897,169.3085,103.093,5.1,mww,83.0,64.0,3.135,1.03,us,us7000ngth,2024-09-27T15:12:34.040Z,"49 km S of Isangel, Vanuatu",earthquake,6.73,4.536,0.071,19.0,reviewed,us,us,14.0,1.0
+2024-09-27T11:20:17.313Z,-30.8448,-179.7471,355.386,5.2,mb,76.0,65.0,2.235,0.77,us,us7000ngsr,2024-09-30T09:09:47.040Z,Kermadec Islands region,earthquake,4.37,5.822,0.033,308.0,reviewed,us,us,9.0,1.0
+2024-09-27T03:39:31.854Z,11.8785,-87.6523,51.404,5.1,mww,70.0,135.0,1.021,0.93,us,us7000ngr0,2024-09-27T13:35:29.040Z,"84 km SW of Corinto, Nicaragua",earthquake,6.64,7.701,0.08,15.0,reviewed,us,us,14.0,1.0
+2024-09-27T02:23:00.695Z,-10.9539,161.4818,10.0,5.3,mww,37.0,101.0,2.133,1.14,us,us7000ngqn,2024-09-27T13:27:09.040Z,"73 km SW of Kirakira, Solomon Islands",earthquake,7.68,1.785,0.098,10.0,reviewed,us,us,5.5,1.0
+2024-09-26T22:02:01.283Z,-41.4806,-86.4253,10.0,5.1,mb,84.0,39.0,10.1,0.92,us,us7000ngpk,2024-09-30T04:37:24.040Z,West Chile Rise,earthquake,4.59,1.785,0.042,183.0,reviewed,us,us,14.0,1.0
+2024-09-26T19:19:28.811Z,-17.1899,66.5466,10.0,6.3,mww,101.0,29.0,3.949,0.83,us,us7000ngmr,2024-09-27T19:21:59.721Z,Mauritius - Reunion region,earthquake,8.04,1.82,0.052,36.0,reviewed,us,us,1.0,1.0
+2024-09-26T07:01:10.361Z,42.8149,145.0395,57.887,5.5,mww,133.0,36.0,1.607,0.77,us,us7000ngi1,2024-09-27T07:07:56.610Z,"28 km SSE of Akkeshi, Japan",earthquake,7.74,5.557,0.071,19.0,reviewed,us,us,3.0,1.0
+2024-09-25T14:01:05.268Z,-57.732,-6.9053,10.0,5.3,mb,34.0,78.0,14.098,0.73,us,us7000ng5k,2024-09-25T14:19:48.040Z,southern Mid-Atlantic Ridge,earthquake,10.04,1.539,0.083,49.0,reviewed,us,us,5.5,1.0
+2024-09-25T06:43:21.986Z,14.4106,-93.1275,10.0,5.3,mww,92.0,130.0,2.091,1.49,us,us7000ng3m,2024-09-26T07:00:09.861Z,"83 km WSW of Puerto Madero, Mexico",earthquake,7.04,1.835,0.046,46.0,reviewed,us,us,5.5,1.0
+2024-09-24T21:58:08.968Z,-16.8608,-176.9431,10.0,5.1,mb,77.0,50.0,2.781,1.02,us,us7000ng1k,2024-09-24T22:20:30.040Z,Fiji region,earthquake,7.67,1.799,0.037,239.0,reviewed,us,us,14.0,1.0
+2024-09-24T14:24:26.960Z,-25.8787,-71.0032,53.668,5.2,mww,188.0,43.0,0.452,0.87,us,us6000nu2l,2024-09-27T18:09:28.185Z,"73 km SW of Taltal, Chile",earthquake,6.15,3.731,0.057,30.0,reviewed,us,us,9.0,1.0
